@@ -23,16 +23,16 @@ Organizar visualmente los principales componentes de los sistemas distribuidos, 
 
 El mapa conceptual desarrolla los siguientes temas:
 
-- Ecosistema de sistemas distribuidos.
+- Concepto y características de los sistemas distribuidos.
 - Tipos de sistemas distribuidos.
-- Computación en la nube, edge y grid.
+- Computación en la nube, CDN y edge.
 - Middleware.
-- Modelos de comunicación síncronos y asíncronos.
-- Transparencia de acceso, ubicación, replicación, concurrencia, migración y fallos.
+- Modelos de comunicación: RPC y mensajería.
+- Transparencia de acceso, ubicación, concurrencia, migración, reubicación, persistencia y fallos, entre otras.
 - Tolerancia a fallos.
-- Replicación, redundancia y failover.
-- Teorema CAP.
-- Consistencia, disponibilidad y tolerancia a particiones.
+- Replicación y su relación con la transparencia y la tolerancia a fallos.
+- Teorema CAP (consistencia, disponibilidad y tolerancia a particiones).
+- Modelos de consistencia.
 - Spotify como sistema distribuido real.
 
 ## Caso de estudio: Spotify
